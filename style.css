@@ -24,7 +24,7 @@ html {
 body {
     font-family: var(--ffOne);
     font-weight: 400;
-    background: url(../img/body-img.jpg) no-repeat;
+    background: url(body-img.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -334,7 +334,7 @@ header .container .menu .navbar-right li a {
     height: 100%;
     top: -21.5rem;
     left: 41%;
-    background: url(../img/title-spider.png) no-repeat;
+    background: url(title-spider.png) no-repeat;
     z-index: 0;
 }
 
@@ -345,7 +345,7 @@ header .container .menu .navbar-right li a {
     height: 27%;
     left: -33.1rem;
     top: 0;
-    background: url(../img/about-spider-wev-image.png) no-repeat;
+    background: url(about-spider-wev-image.png) no-repeat;
 }
 
 .about .container {
@@ -403,7 +403,7 @@ header .container .menu .navbar-right li a {
     height: 320%;
     top: -88rem;
     left: 25%;
-    background: url(../img/Skull.jpg) no-repeat;
+    background: url(img/Skull.jpg) no-repeat;
     z-index: -13;
 }
 
@@ -445,7 +445,7 @@ header .container .menu .navbar-right li a {
 /*Start Gallery Section*/
 .gallery {
     padding-top: 0;
-    background: url(../img/gallery-background-image.jpg) no-repeat;
+    background: url(gallery-background-image.jpg) no-repeat;
 }
 
 .gallery .container>h2 {
@@ -529,7 +529,7 @@ header .container .menu .navbar-right li a {
     height: 175%;
     top: -7rem;
     left: -5%;
-    background: url(../img/Scratch.png) no-repeat;
+    background: url(img/Scratch.png) no-repeat;
     z-index: -1;
 }
 
@@ -565,7 +565,7 @@ header .container .menu .navbar-right li a {
 /*End Testimonial Section*/
 /*Start Ticket Section*/
 .ticket {
-    background: url(../img/get-ticket-background-image.jpg) no-repeat;
+    background: url(get-ticket-background-image.jpg) no-repeat;
 }
 
 .ticket .container .row .ticket-box .ticket-img {
@@ -1017,7 +1017,7 @@ header .container .menu .navbar-right li a {
     .contact::after {
         content: "";
         position: absolute;
-        background: url(../img/fox-background-image.png) no-repeat;
+        background: url(fox-background-image.png) no-repeat;
         width: 100%;
         height: 230%;
         bottom: -6.5rem;
